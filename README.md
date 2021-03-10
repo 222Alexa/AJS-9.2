@@ -1,4 +1,4 @@
-# 9.2
+# AJS-9.2
 # Домашнее задание к лекции «`ArrayBuffer`»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
@@ -40,3 +40,5 @@ function getBuffer() {
 Не забудьте написать unit-тесты, которые обеспечивают 100% покрытие функций и классов, которые вы тестируете.
 
 ---
+
+[![Build status](https://ci.appveyor.com/api/projects/status/s3xqcbd2pydw9t45/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ajs-9-2/branch/main)
