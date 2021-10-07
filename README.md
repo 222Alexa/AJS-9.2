@@ -40,3 +40,8 @@ function getBuffer() {
 Не забудьте написать unit-тесты, которые обеспечивают 100% покрытие функций и классов, которые вы тестируете.
 
 ---
+### ArrayBuffer
+
+[![Build status](https://ci.appveyor.com/api/projects/status/0wt84bohs336f476/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ajs-9-2-t9ej3/branch/main)
+
+---
